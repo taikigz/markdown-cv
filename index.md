@@ -70,17 +70,17 @@ Universidad Antonio de Nebrija
 
 ## 🌍 Idiomas
 
-__Galego e castelán:__ Linguas maternas
-__Inglés:__ Nivel C1 MERC, EOI de Pontevedra
-__Francés:__ Nivel A2 MERC, EOI de Santiago de Compostela
-__Portugués:__ Competencia básica
+__Galego e castelán:__ Linguas maternas  
+__Inglés:__ Nivel C1 MERC, EOI de Pontevedra  
+__Francés:__ Nivel A2 MERC, EOI de Santiago de Compostela  
+__Portugués:__ Competencia básica  
 
 ## 🛠️ Competencias
 
-__Ofimática:__ Nivel avanzado (Paquete Office, bases de datos)
+__Ofimática:__ Nivel avanzado (Paquete Office, bases de datos)  
 __Deseño gráfico e edición de imaxe**: Nivel medio (Photoshop, GIMP, Lightroom)  
 __Creación de páxinas web:__ Nivel medio (WordPress, Blogger, HTML5 e CSS)  
-__Programación:__ Nivel básico (Markdown, Bash, Perl, Javascrit, Python)
+__Programación:__ Nivel básico (Markdown, Bash, Perl, Javascrit, Python)  
 
 
 
