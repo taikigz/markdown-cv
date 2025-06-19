@@ -20,7 +20,7 @@ Historia medieval, Historia das mentalidades, Avaliación formativa, Tratamento 
 
 ## Experiencia arofesional
 
-`2023-Febreiro 2024`
+`2023-2024`
 __Profesor substituto__
 _Colexio Montesol, Vigo_
 - Docencia das materias de Xeografía e Historia (1º e 2º ESO), Cultura Clásica (3º ESO), Proxecto competencial (2º ESO) e Educación en Valores Cívicoes e Éticos (3º ESO)
@@ -32,7 +32,7 @@ _Consejería de Educación de Canarias_
 - Docencia das materias de Xeografía e Historia (4º ESO), Historia de Canarias (4º ESO) e Historia da Arte (2º BACH).  
 - Membro do grupo de actividades e dinamización escolar.
 
-`Outubro 2020 – Xuño 2021`
+`2014-2020`
 __Profesor de clases particulares__  
 - Apoio individualizado en materias de Ciencias Sociais, linguas modernas e clásicas, filosofía, técnicas de estudo e comentario de texto.
   
