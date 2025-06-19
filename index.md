@@ -20,15 +20,13 @@ Historia medieval, Historia das mentalidades, Avaliación formativa, Tratamento 
 
 ## Experiencia arofesional
 
-`Maio 2023 –  
-Febreiro 2024`
+`2023-Febreiro 2024`
 __Profesor substituto__
 _Colexio Montesol, Vigo_
 - Docencia das materias de Xeografía e Historia (1º e 2º ESO), Cultura Clásica (3º ESO), Proxecto competencial (2º ESO) e Educación en Valores Cívicoes e Éticos (3º ESO)
 - Membro do grupo de traballo da biblioteca e dinamización lectora.
 
-`Outubro 2020 –  
-Xuño 2021`
+`2020-2021`
 __Profesor interino no IES José Zerpa (Vecindario, Las Palmas de Gran Canaria)__
 _Consejería de Educación de Canarias_
 - Docencia das materias de Xeografía e Historia (4º ESO), Historia de Canarias (4º ESO) e Historia da Arte (2º BACH).  
