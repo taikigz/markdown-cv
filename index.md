@@ -78,7 +78,7 @@ __Portugués:__ Competencia básica
 ## 🛠️ Competencias
 
 __Ofimática:__ Nivel avanzado (Paquete Office, bases de datos)  
-__Deseño gráfico e edición de imaxe**: Nivel medio (Photoshop, GIMP, Lightroom)  
+__Deseño gráfico e edición de imaxe:__ Nivel medio (Photoshop, GIMP, Lightroom)  
 __Creación de páxinas web:__ Nivel medio (WordPress, Blogger, HTML5 e CSS)  
 __Programación:__ Nivel básico (Markdown, Bash, Perl, Javascrit, Python)  
 
