@@ -1,91 +1,92 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Currículo de Adrián Faílde Perdiz
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Adrián Faílde
+Profesor de ensino secundario de Xeografía e Historia
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="adrian.failde@edu.xunta.gal">adrian.failde@edu.xunta.gal</a>
+|  teléfono: 666 382 424
 </div>
 
+## Na actualidade
 
-## Currently
+Na actualidade preparo oposicións ao corpo de profesorado de ensino secundario, continúo a miña formación sobre aprendizaxe cooperativo, avaliación formativa e DUA e deseño recursos educativos propios.  
 
-Standing on the shoulders of giants
+### Especializado en
 
-### Specialized in
+Historia medieval, Historia das mentalidades, Avaliación formativa, Tratamento educativo do autismo
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## 🧑‍🏫 Experiencia arofesional
 
+`📅 Maio 2023 – Febreiro 2024`
+__Profesor substituto__
+_Colexio Montesol, Vigo_
+- Docencia das materias de Xeografía e Historia (1º e 2º ESO), Cultura Clásica (3º ESO), Proxecto competencial (2º ESO) e Educación en Valores Cívicoes e Éticos (3º ESO)
+- Membro do grupo de traballo da biblioteca e dinamización lectora.
 
-### Research interests
+`📅 Outubro 2020 – Xuño 2021`
+__Profesor interino no IES José Zerpa (Vecindario, Las Palmas de Gran Canaria)__
+_Consejería de Educación de Canarias_
+- Docencia das materias de Xeografía e Historia (4º ESO), Historia de Canarias (4º ESO) e Historia da Arte (2º BACH).  
+- Membro do grupo de actividades e dinamización escolar.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`📅 Outubro 2020 – Xuño 2021`
+__Profesor de clases particulares__  
+- Apoio individualizado en materias de Ciencias Sociais, linguas modernas e clásicas, filosofía, técnicas de estudo e comentario de texto.
+  
+## 🎓 Formación académica
 
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
+`2013`
+__Máster en Profesorado (Especialidade en Ciencias Sociais)__
+Universidade de Santiago de Compostela
 
 `2012`
-President, *Royal Society*, London, UK
+__Licenciatura en Historia (Especialidade en Historia Medieval)__
+Universidade de Santiago de Compostela
 
-Associate, *French Academy of Science*, Paris, France
+## 📚 Formación adicional
+
+`2023`
+__Aula invertida e Podcast__
+Asociación Socio-Pedagóxica Galega
+
+`2023`
+__Intelixencia artificial para o ensino__
+Asociación Socio-Pedagóxica Galega
+
+`2023`
+__Actividades interactivas e de avaliación con H5P en moodle e e-dixgal__
+Asociación Socio-Pedagóxica Galega
+
+`2022`
+__Novos currículos, formación e avaliación__
+Asociación Socio-Pedagóxica Galega
+
+`2020`
+__Inclusión e aplicación das tecnoloxías nos centros educativos__
+Universidad Antonio de Nebrija
+
+## 🌍 Idiomas
+
+__Galego e castelán:__ Linguas maternas
+__Inglés:__ Nivel C1 MERC, EOI de Pontevedra
+__Francés:__ Nivel A2 MERC, EOI de Santiago de Compostela
+__Portugués:__ Competencia básica
+
+## 🛠️ Competencias
+
+__Ofimática:__ Nivel avanzado (Paquete Office, bases de datos)
+__Deseño gráfico e edición de imaxe**: Nivel medio (Photoshop, GIMP, Lightroom)  
+__Creación de páxinas web:__ Nivel medio (WordPress, Blogger, HTML5 e CSS)  
+__Programación:__ Nivel básico (Markdown, Bash, Perl, Javascrit, Python)
 
 
-
-## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
 <!-- ### Footer
-
-Last updated: May 2013 -->
+Actualizado: Xuño 2025 -->
 
 
